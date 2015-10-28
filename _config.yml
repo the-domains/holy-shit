@@ -1,6 +1,6 @@
 name: 'holy shit '
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25946
 typography_spectrum: 0.754111
 title: holy-shit-ahhhh
 cta:
@@ -22,7 +22,7 @@ color:
     - '#908858'
     - '#F0B048'
     - '#C8B078'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
   saturation: 1
   rhythmicContrast: 1
